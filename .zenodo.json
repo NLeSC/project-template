@@ -1,0 +1,38 @@
+{
+  "title": "TODO: Project title",
+  "description": "TODO: One or two sentences describing the research software.",
+  "upload_type": "software",
+  "license": "Apache-2.0",
+  "creators": [
+    {
+      "name": "TODO family name, TODO given name",
+      "affiliation": "Netherlands eScience Center",
+      "orcid": "TODO"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Netherlands eScience Center",
+      "type": "ResearchGroup"
+    }
+  ],
+  "keywords": [
+    "research software",
+    "open science",
+    "FAIR software",
+    "TODO"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/NLeSC/TODO-REPOSITORY",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "TODO-zenodo-community-if-applicable"
+    }
+  ],
+  "notes": "TODO: Add funding, project, or acknowledgement information if required."
+}

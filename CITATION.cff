@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "TODO: Project title"
+abstract: "TODO: One or two sentences describing what the software does and why it exists."
+version: 0.1.0
+date-released: "TODO: YYYY-MM-DD"
+license: Apache-2.0
+repository-code: https://github.com/NLeSC/TODO-REPOSITORY
+url: https://github.com/NLeSC/TODO-REPOSITORY
+keywords:
+  - research-software
+  - open-science
+  - fair-software
+  - TODO
+
+authors:
+  - family-names: TODO
+    given-names: TODO
+    affiliation: Netherlands eScience Center
+    orcid: "https://orcid.org/TODO"
+  - name: "Netherlands eScience Center"
+    website: https://www.esciencecenter.nl/
+
+preferred-citation:
+  type: software
+  title: "TODO: Project title"
+  authors:
+    - family-names: TODO
+      given-names: TODO
+      affiliation: Netherlands eScience Center
+  repository-code: https://github.com/NLeSC/TODO-REPOSITORY
+  license: Apache-2.0
