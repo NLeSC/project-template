@@ -1,3 +1,5 @@
+![Building the Research Software Directory](assets/rsd-header.jpg)
+
 # NLeSC Project Template
 
 A GitHub template for new Netherlands eScience Center research software projects.
