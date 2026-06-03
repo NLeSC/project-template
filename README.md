@@ -1,4 +1,4 @@
-![Building the Research Software Directory](assets/rsd-header.jpg)
+![Netherlands eScience Center](assets/escience-banner.png)
 
 # NLeSC Project Template
 
